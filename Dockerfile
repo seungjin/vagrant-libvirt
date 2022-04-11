@@ -82,5 +82,4 @@ COPY entrypoint.sh /usr/local/bin/
 
 ENTRYPOINT ["entrypoint.sh"]
 
-
 # vim: set expandtab sw=4:
