@@ -16,6 +16,7 @@ RUN apt update \
         openssh-client \
         qemu-utils \
         rsync \
+        procps \
     && rm -rf /var/lib/apt/lists \
     ;
 
